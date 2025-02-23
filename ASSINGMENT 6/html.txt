@@ -1,0 +1,22 @@
+<html>
+<title> starting of web </title>
+<head><p><h1><center><b><u>FAIQ</u></b></center></h1></p></head>
+<hr>
+<body><p><h2><center><b>MY SELF</b></center></h2></p>
+<center><p>Themes and styles also help keep your document coordinated. When 
+you click Design and choose a new Theme, the pictures, charts,
+ and SmartArt graphics change to match your new theme. When you apply styles<br>,
+ your headings change to match the new theme.</p></center>
+<p><h2><center><b> INTRODUCTION </b></center></h2></p>
+<center><p>Themes and styles also help keep your document coordinated. When 
+you click Design and choose a new Theme, the pictures, charts,
+ and SmartArt graphics change to match your new theme. When you apply styles<br>,
+ your headings change to match the new theme.</p></center>
+<div><center> <img src="t"></center> </div>
+
+
+
+
+
+</body>
+
